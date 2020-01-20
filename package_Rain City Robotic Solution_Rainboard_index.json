@@ -17,7 +17,7 @@
           "help": {
             "online": "http://rainboard.id"
           },
-          "url": "https://github.com/mluthfialhadi/mluthfialhadi.github.io/releases/download/Rainboard/Rainboard-1.0.zip",
+          "url": "https://github.com/Rainboard-id/Rainboard-id.github.io/releases/download/Rainboard-1.0/Rainboard-1.0.zip",
           "archiveFileName": "Rainboard-1.0.zip",
           "checksum": "SHA-256:01a03e363f5c50284c25e6e25a33cd00e985890f62ae45086963ff9c8d4523fd8",
           "size": "345957",
@@ -45,7 +45,7 @@
           "help": {
             "online": "http://rainboard.id"
           },
-          "url": "https://github.com/mluthfialhadi/mluthfialhadi.github.io/releases/download/Minimax/Rainboard-1.1.zip",
+          "url": "https://github.com/Rainboard-id/Rainboard-id.github.io/releases/download/Rainboard-1.1/Rainboard-1.1.zip",
           "archiveFileName": "Rainboard-1.1.zip",
           "checksum": "SHA-256:118b7c60dc564f7923f27472c60a604a854e0c4c9c3477315e81c8271464e809",
           "size": "348098",
@@ -65,7 +65,36 @@
               "version": "6.0.1-arduino5"
             }
           ]
-        } 
+    }, 
+		{
+		  "name": "Rainboard",
+          "architecture": "avr",
+          "version": "1.2",
+          "category": "Contributed",
+          "help": {
+            "online": "http://rainboard.id"
+          },
+          "url": "https://github.com/Rainboard-id/Rainboard-id.github.io/releases/download/Rainboard-1.2/Rainboard-1.2.zip",
+          "archiveFileName": "Rainboard-1.2.zip",
+          "checksum": "SHA-256:d687e47e5e2a3ed4a7e0a9e16b80e9bb4e3a6f5f34fb39212fe02d1edf31b74c",
+          "size": "6714945",
+          "boards": [
+            {"name": "Rainboard RGB"},
+            {"name": "Rainboard Minimax"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+    }, 
       ],
       "tools": []
     }
