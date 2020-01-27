@@ -17,7 +17,7 @@
           "help": {
             "online": "http://rainboard.id"
           },
-          "url": "https://github.com/Rainboard-id/Rainboard-id.github.io/releases/download/Rainboard-1.0/Rainboard-1.0.zip",
+          "url": "https://github.com/Rainboard-id/Rainboard-id.github.io/raw/master/Versi/Rainboard-1.0.zip",
           "archiveFileName": "Rainboard-1.0.zip",
           "checksum": "SHA-256:01a03e363f5c50284c25e6e25a33cd00e985890f62ae45086963ff9c8d4523fd8",
           "size": "345957",
@@ -95,6 +95,7 @@
             }
           ]
     } 
+
       ],
       "tools": []
     }
