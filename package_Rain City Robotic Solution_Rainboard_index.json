@@ -76,8 +76,8 @@
           },
           "url": "https://github.com/Rainboard-id/Rainboard-id.github.io/releases/download/Rainboard-1.2/Rainboard-1.2.zip",
           "archiveFileName": "Rainboard-1.2.zip",
-          "checksum": "SHA-256:61f4cf5ee3ef118b6845a07767cc0233426cdc7f87b608ee926095c2785b413c",
-          "size": "6672609",
+          "checksum": "SHA-256:7e18c62e7e114051cd943a4c3af5c452104836be6b2b2ce962a1ab52fddee574",
+          "size": "6651488",
           "boards": [
             {"name": "Rainboard RGB"},
             {"name": "Rainboard Minimax"}
