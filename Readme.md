@@ -11,7 +11,9 @@ versi 1.0
 versi 1.1
   - Board Rainboard RGB
   - Board Rainboard Minimax
+    
 
+    
 versi 1.2
   - Board Rainboard RGB
   - Board Rainboard Minimax
